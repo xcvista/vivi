@@ -1,0 +1,6 @@
+#define UTS_VERSION "#0.1.4 日 6月 5 00:24:50 CST 2005"
+#define VIVI_COMPILE_TIME "00:24:50"
+#define VIVI_COMPILE_BY "root"
+#define VIVI_COMPILE_HOST "azure"
+#define VIVI_COMPILE_DOMAIN "localdomain"
+#define VIVI_COMPILER "gcc version 2.95.3 20010315 (release)"

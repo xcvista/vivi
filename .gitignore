@@ -1,0 +1,10 @@
+# Original cvsignore
+vivi.map
+vivi-elf
+vivi
+.config
+.log
+
+# OS X junk
+.DS_Store
+
